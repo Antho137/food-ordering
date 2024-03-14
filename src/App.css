@@ -96,9 +96,8 @@ h2 {
   text-align: center;
 }
 
-.footer img {
-  border-radius: 50%;
-  padding: 0 10px 10px;
+.footer .fas {
+  padding: 0 10px;
 }
 
 .copyright {
